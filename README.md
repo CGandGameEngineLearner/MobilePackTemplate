@@ -1,4 +1,2 @@
-# MB
-
-Developed with Unreal Engine 4
+# Unreal4.27安卓打包示例项目
 
